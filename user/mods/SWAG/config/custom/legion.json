@@ -1,0 +1,134 @@
+{
+  "customs": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "factory": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "factory_night": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "groundzero": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "interchange": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "laboratory": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "3",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "impossible",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "reserve": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "shoreline": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "streets": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "woods": [
+    {
+      "BossChance": 18.875,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerBoarClose1",
+      "BossDifficult": "hard",
+      "BossEscortDifficult": "impossible",
+      "BossName": "bosslegion",
+      "BossZone": null,
+      "Time": -1
+    }
+  ]
+}
